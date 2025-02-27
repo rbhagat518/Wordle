@@ -25,7 +25,7 @@ none
 
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/live/-mLiLR0cRjY?si=43RdE-Gx3m0PnQB7) .
+[x](https://www.youtube.com/live/-mLiLR0cRjY?si=43RdE-Gx3m0PnQB7) .
 
 
 ## Notes
